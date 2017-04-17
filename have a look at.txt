@@ -1,0 +1,9 @@
+https://elk-docker.readthedocs.io/
+https://hub.docker.com/r/sebp/elk/
+
+https://github.com/deviantony/docker-elk
+
+https://entwickler.de/online/development/logging-leicht-gemacht-elk-stacks-128685.html
+https://logz.io/learn/docker-monitoring-elk-stack/
+
+https://www.inovex.de/blog/elk-on-docker-compose/
