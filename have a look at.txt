@@ -7,3 +7,7 @@ https://entwickler.de/online/development/logging-leicht-gemacht-elk-stacks-12868
 https://logz.io/learn/docker-monitoring-elk-stack/
 
 https://www.inovex.de/blog/elk-on-docker-compose/
+
+Setting up application logback encoder and changing/creating logstash udp endpoint:
+    http://stytex.de/blog/2016/01/18/spring-cloud-elk-stack/
+    https://elk-docker.readthedocs.io/
