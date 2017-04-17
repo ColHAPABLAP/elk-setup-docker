@@ -4,4 +4,6 @@ Login to running image:
 Connect stdin to logstash:
     /opt/logstash/bin/logstash -e 'input { stdin { } } output { elasticsearch { hosts => ["localhost"] } }'
 
-enter text for first entry, send with enter, close with Ctrl+C
+Enter text for first entry, send with enter, close with Ctrl+C.
+
+In Kibana (localhost:5601) select '@timestamp' as Time-field name for default index-pattern setup.
